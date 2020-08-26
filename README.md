@@ -1,3 +1,3 @@
-Backend service for https://github.com/wildanpurnomo/kkn-bantu
+Backend service for https://github.com/wildanpurnomo/sendang-digimap-frontend
 
-Contains logic for simple CRUD stuff, hosting image and realtime multiplayer quiz service (with WebSocket)
+Contains logic for simple CRUD stuff and image hosting service
